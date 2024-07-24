@@ -1,4 +1,22 @@
 body {
-  background-color: Black;
-  color: Bisque;
+  background-color: black;
+  color: bisque;
+  font-family: 'Garamond', serif;
+  font-size: 20px;
+  text-underline-offset: 0.2em;
+}
+
+main {
+  border: solid bisque 1px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 2%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: antiquewhite;
 }
